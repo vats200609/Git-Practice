@@ -1,2 +1,1 @@
-# Git-Practice
-Learning Git and GitHub 
+AI-Study-Assistant
